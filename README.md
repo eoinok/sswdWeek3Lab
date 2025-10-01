@@ -15,7 +15,7 @@ Start the webserver listening on port 8000 in that window using the following co
 
 ***PHP -S localhost:8000 -t ./***
 
-Leave that window with the webserver running - listening f
+Leave that window with the webserver running - listening for new web requests
 
 # Part 1
 
