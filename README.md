@@ -1,10 +1,13 @@
 "# phpForLoop Example" 
 
 Clone this repo into your documents folder on the C Drive (e.g c:\users\b0001234\documents). Get your repo url from github after creating the repo.
-Type ***git clone your-repo-url***
+Type 
+***git clone your-repo-url***
 In the command prompt ***cd*** into the cloned folder e.g. ***cd sswdWeek3Lab-eoinok-6 ***  
 
-Then ***cd*** into the folder you have just cloned by typing ***cd labWeek3-yourgithubid***. 
+Then ***cd*** into the folder you have just cloned by typing 
+
+***cd labWeek3-yourgithubid***. 
 
 Once you are in the correct folder keep this command window open so you can type in your git commands as required.
 Open another command window and cd into the same folder c:\users\b0001234\documents\labWeek3-yourgithubid***
@@ -13,7 +16,6 @@ Start the webserver listening on port 8000 in that window using the following co
 ***PHP -S localhost:8000 -t ./***
 
 Leave that window with the webserver running - listening f
-
 
 # Part 1
 
